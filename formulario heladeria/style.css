@@ -1,0 +1,30 @@
+h1{
+    color: #ffffff;
+}
+.fondo{
+    background: url(https://cdn.pixabay.com/photo/2017/04/18/15/10/strawberry-ice-cream-2239377_960_720.jpg);
+    background-size: cover;
+}
+.parraf{
+    color: #ffffff;
+    text-shadow: black 1px 1px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.span{
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: black 1px 1px;
+}
+
+.formulario input{
+    margin: 3px;
+}
+.formulario input:hover{
+background: lightgray;
+}
+.centrar{
+   width: 160px;
+}
